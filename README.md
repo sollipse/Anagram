@@ -4,7 +4,7 @@ A quick anagram solving command line tool built in ruby.
 ## Setup
 This tool has two main dependencies: ```ruby``` and a ruby gem, ```minitest```. 
 
-[Ruby](https://www.ruby-lang.org/) can be installed fairly easily (using homebrew)[https://gorails.com/setup/osx/10.10-yosemite].
+[Ruby](https://www.ruby-lang.org/) can be installed fairly easily [using homebrew](https://gorails.com/setup/osx/10.10-yosemite).
 
 After ruby has been installed, installing the minitest gem is as simple as: ```gem install minitest```. 
 
