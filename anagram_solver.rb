@@ -15,7 +15,7 @@ class AnagramSolver
     puts "Please stand by while this process takes place.\n"
     print "\|"
 
-    # Grep the file by line. 
+    # Grep the file by line.
     dictionary_size = File.foreach(dictionary_file_path).count
     File.foreach(dictionary_file_path).with_index do |line_data, line_number|
       
